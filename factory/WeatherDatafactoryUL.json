@@ -1,9 +1,0 @@
-{
-	"name": "WeatherDatafactoryUL",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b1e9284c-f5c9-4cac-a9ed-f8c09d75946c",
-		"tenantId": "0084b924-3ab4-4116-9251-9939f695e54c"
-	}
-}
